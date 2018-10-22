@@ -1,5 +1,7 @@
 # Comic-Character-Image-Recognizer
 
+Training and Testing data here: https://drive.google.com/drive/folders/1eq4opFD0CzaUdgr2kODqy1hKVDmIyRZZ?usp=sharing
+
 
 Project using Tensorflow for Poets in Google codelab
 
